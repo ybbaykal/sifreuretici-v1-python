@@ -22,6 +22,6 @@ ________________________________________________________________________________
 
 Gereksinimler:
 
-Şifre üreticiyiz kullanabilmek için bilgisayarınızda Python3 yüklü olmalı
+Şifre üreticiyi kullanabilmek için bilgisayarınızda Python3 yüklü olmalı
 
 _____________________________________________________________________________________________________________________________________________
